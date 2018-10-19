@@ -1,4 +1,4 @@
-# Explore Titanic Dataset with Watson Studio using Notebook and Dashboard
+# Explore Titanic Dataset with Watson Studio using Jupyter Notebooks and Dashboard
 
 ## Login to IBM Cloud and Create Watson Studio Service
 1. Register in [IBM Cloud](https://ibm.biz/BdYpAP).
