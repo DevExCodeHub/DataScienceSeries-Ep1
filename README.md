@@ -11,7 +11,7 @@
 1. Scrol down the page and click on **(+) New project icon**.
 2. Name your project 'Titanic Data Exploration'.
 3. Click **Create**.
-4. In your project page, nagivate to the Assests tab, drag the [data set](https://github.com/DevExCodeHub/Loan_eligibility_lab/blob/master/Data/train.csv) file and drop it in the Load sidebar.
+4. In your project page, nagivate to the Assests tab, drag the [data set](https://github.com/DevExCodeHub/DataScienceSeries-Ep1/blob/master/Data/TitanicData.csv) file and drop it in the Load sidebar.
 
 ## Analyze Titanic data in Python with Jupyter Notebooks
 ## Analyze Titanic data with Dashboard 
