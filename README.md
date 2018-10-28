@@ -17,7 +17,7 @@
 ## Analyze Titanic data with Dashboard 
 
 # Resources 
-Please find the workshop slides [here]()
+Please find the workshop slides [here](https://github.com/DevExCodeHub/DataScienceSeries-Ep1/blob/master/DataScienceSeries-Ep1.pdf)
 * [Panda cheat sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Some of the most important functions of Pandas
 * [A visulization tutorial on Python Seaborn](https://elitedatascience.com/python-seaborn-tutorial
 ) - Learn how to use Python seaborn libraries for data visualization
